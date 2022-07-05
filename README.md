@@ -1,4 +1,4 @@
-# SpatialTranscriptomicsPractice
+# Spatial Transcriptomics - R Seurat
 Load data:
 
 - raw data: too big (21Gb)
